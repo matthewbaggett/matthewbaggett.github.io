@@ -1,4 +1,4 @@
-language: php
+language: bash
 
 before_script:
   - make clean
