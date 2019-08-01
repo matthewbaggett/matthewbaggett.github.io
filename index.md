@@ -1,5 +1,4 @@
-# Matthew Baggett - CV
-
+# Matthew Baggett
 
 Contact by: | &nbsp; 
 ---------|-----
