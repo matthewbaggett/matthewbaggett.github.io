@@ -4,12 +4,10 @@ build:
 		-it \
 		-v `pwd`:/app \
 		-u `id -u ${USER}`:`id -g ${USER}` \
-		gone/eleventy
-
-	ls -lah _site/CV
+		gone/eleventy eleventy --input=template --output=docs
 
 prepare:
 	docker pull gone/eleventy
 
 clean:
-	rm -Rf _site
+	rm -Rf docs

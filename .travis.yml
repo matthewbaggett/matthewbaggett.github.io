@@ -20,5 +20,5 @@ deploy:
   keep_history: true
   on:
     branch: master
-  local_dir: _site/CV
+  local_dir: docs
   committer_from_gh: true
