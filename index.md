@@ -1,5 +1,9 @@
 # Matthew Baggett
 
+I'm a Developer, Electronics Design enthusiast, Docker Preacher and Automation-ist. 
+I live in Almere, Netherlands. Previously, I've lived in Manchester and Sheffield, England. 
+I'm originally from Oxford, England.
+
 Contact by: | &nbsp; 
 ---------|-----
 Telephone & Whatsapp: | +44 (0) 7541 059 344
