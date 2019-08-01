@@ -12,8 +12,6 @@ notifications:
     - matthew@baggett.me
 
 deploy:
-  #fqdn: benzine.io
-  project_name: 'Matthew Baggett''s CV'
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
