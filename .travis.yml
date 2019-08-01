@@ -1,0 +1,34 @@
+language: php
+
+php:
+  - 7.3
+  - 7.4snapshot
+  - nightly
+
+matrix:
+  allow_failures:
+    - php: 7.4snapshot
+    - php: nightly
+
+before_script:
+  - make clean
+  - make prepare
+
+script:
+  - make build
+
+notifications:
+  email:
+    - matthew@baggett.me
+
+deploy:
+  #fqdn: benzine.io
+  project_name: Matthew Baggett's CV
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  on:
+    branch: master
+  local_dir: _site/CV
+  committer_from_gh: true
