@@ -1,15 +1,3 @@
-language: php
-
-php:
-  - 7.3
-  - 7.4snapshot
-  - nightly
-
-matrix:
-  allow_failures:
-    - php: 7.4snapshot
-    - php: nightly
-
 before_script:
   - make clean
   - make prepare
@@ -23,7 +11,7 @@ notifications:
 
 deploy:
   #fqdn: benzine.io
-  project_name: Matthew Baggett's CV
+  project_name: "Matthew Baggett's CV"
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
