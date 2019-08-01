@@ -1,6 +1,5 @@
 # Matthew Baggett - CV
 
-Last Updated: {{ page.date | date_to_long_string }}
 
 Contact by: | &nbsp; 
 ---------|-----
@@ -16,7 +15,8 @@ Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
 # Abilities & Technologies:
 
 * Build-out of dockerised cluster infrastructure using Docker Swarm
-* {{ page.date | date: "%Y" | minus: 2008 }} years experience of PHP (been at it since 2008). Experienced with modern PHP7.3. Excited for PHP7.4.
+* 11 years experience of PHP (been at it since 2008!).
+* Experienced with modern PHP7.3. Excited for PHP7.4.
 * Slim 3, Drupal 7, Laravel & Zend Framework 2
 * Vast experience building dockerised systems 
   * Check out https://github.com/goneio/base-image ! It’s a Dockerised baseimage for PHP+Nginx / PHP+Apache / CLI with multiple executed threads using runit and onbuild steps to make building a docker image of an app as simple as FROM gone/php:nginx!
