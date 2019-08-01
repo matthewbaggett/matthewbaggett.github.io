@@ -1,8 +1,6 @@
 # Matthew Baggett - CV
 
-[![Build Status](https://travis-ci.org/matthewbaggett/CV.svg?branch=master)](https://travis-ci.org/matthewbaggett/CV)
-
-Last Updated: {{ page.date | date: "%Y-%M-%d" }}
+Last Updated: {{ page.date | date_to_long_string }}
 
 Contact by: | &nbsp; 
 ---------|-----
