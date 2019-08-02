@@ -51,9 +51,9 @@ Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
 * PHP Color: Fork of hasbridge/php-color: Added Unit tests, added support for XYbri colour space for integration with Philips Hue lighting for Home Automation https://github.com/matthewbaggett/php-color
  
 ## Hardware
-* [Traffic Light](https://github.com/matthewbaggett/Traffic-Light) - I saw a small, cheap traffic light toy in Spain. I figured it'd make a fun desk ornament. And then I realised it'd juuuust fit an ESP8266 module inside it.
-* [Tamagotchya](https://github.com/matthewbaggett/Tamagotchya) - A **WIP** 2019 Tamagotchi Clone featuring Wifi, Bluetooth and a 128x64 pixel oLED display, 5 way D pad and an accelerometer and a USB C charge port.
-* [Hexagon LEDs](https://github.com/matthewbaggett/Hexagon-LED) - Build a small, inexpensive hexagonal lighting PCB with an inexpensive microcontroller that can communicate using slow-speed software serial with the other attached nodes and to an optionally fitted ESP8266 ESP-01 module which will designate itself the "host", and populate out colour information from the center.
+* [Traffic Light](https://matthewbaggett.github.io/Traffic-Light/) - I saw a small, cheap traffic light toy in Spain. I figured it'd make a fun desk ornament. And then I realised it'd juuuust fit an ESP8266 module inside it.
+* [Tamagotchya](https://matthewbaggett.github.io/Tamagotchya) - A **WIP** 2019 Tamagotchi Clone featuring Wifi, Bluetooth and a 128x64 pixel oLED display, 5 way D pad and an accelerometer and a USB C charge port.
+* [Hexagon LEDs](https://matthewbaggett.github.io/Hexagon-LED) - Build a small, inexpensive hexagonal lighting PCB with an inexpensive microcontroller that can communicate using slow-speed software serial with the other attached nodes and to an optionally fitted ESP8266 ESP-01 module which will designate itself the "host", and populate out colour information from the center.
 
 # Employment History
 
