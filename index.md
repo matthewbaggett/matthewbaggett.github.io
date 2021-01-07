@@ -1,13 +1,13 @@
 # Matthew Baggett
 
 I'm a Developer, Electronics Design enthusiast, Docker Preacher and Automation-ist. 
-I live in Almere, Netherlands. 
-Previously, I've lived in Manchester, Sheffield and Leicester, England. 
+I live in Maastricht, Netherlands. 
+Previously, I've lived in Almere in the Netherlands, and Manchester, Sheffield and Leicester, England. 
 I'm originally from Oxford, England.
 
 Contact by: | &nbsp; 
 ---------|-----
-Telephone & Whatsapp: | +44 (0) 7541 059 344
+Telephone & Whatsapp: | +31 (0) 621 34 82 45
 Email: | [matthew@baggett.me](mailto:matthew@baggett.me)
 Telegram: | [@greyscale](https://telegram.me/greyscale)
 Skype: | matthewbaggett
@@ -18,22 +18,25 @@ Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
 
 # Abilities & Technologies:
 
-* Build-out of dockerised cluster infrastructure using Docker Swarm
-* 11 years experience of PHP (been at it since 2008!).
-* Experienced with modern PHP7.3. Excited for PHP7.4.
-* Slim 3, Drupal 7, Laravel & Zend Framework 2
+* Build-out of highly available, automatically scaling dockerised cluster infrastructure using Docker Swarm
+* 12 years experience of PHP (been at it since 2008!).
+* Infrastructure-as-code Terraform evangelist.
+* Experienced with modern PHP7.4. Excited for PHP8.0 to go to production.
+* Slim 4, Drupal 7, Laravel & Zend (Now Lamina) Framework 2
 * Vast experience building dockerised systems 
-  * Check out https://github.com/goneio/base-image ! It’s a Dockerised baseimage for PHP+Nginx / PHP+Apache / CLI with multiple executed threads using runit and onbuild steps to make building a docker image of an app as simple as FROM gone/php:nginx!
+  * Check out [https://github.com/goneio/base-image](https://github.com/goneio/base-image) ! It’s a Dockerised baseimage for PHP+Nginx / PHP+Apache / CLI with multiple executed threads using runit and onbuild steps to make building a docker image of an app as simple as FROM gone/php:nginx!
 * Experienced with architecting and building out scalable Microservices with AWS Auto Scaling
 * Unit Testing with PHPUnit & Integration Testing with Selenium.
+* Code Quality improvement and maintenance through PHPStan, Code Style enforcement through PHP-CS-Fixer. 
 * Extensive experience with dockerization of scalable services.
-* Build automation and Management with Jenkins, Gitlab-CI & Travis.
-* AWS Aurora, MariaDB, MySQL and MS SQL database backends, design of database schemas upon them
+* Build massively parallelized ETL pipelines for large data ingress.
+* Build automation and Management with [Github Actions](https://github.com/goneio/base-image/blob/master/.github/workflows/build.yml), Jenkins, Gitlab-CI & Travis.
+* AWS RDS Serverless, AWS Aurora, MariaDB, MySQL and MS SQL database backends, design of database schemas upon them
 * Experienced with Redis & MQTT as cache and message brokers
 * NodeJS & Socket.io
 * Javascript with and without the jQuery library, as well as implementation of AJAX features.
 * HTML 4/5 & CSS 2/3 templating from designer-provided designs
-* Amazon AWS cloud systems (EC2, Elastic Load Balancer, Route 53, RDS, Elasticache, SES)
+* Amazon AWS cloud systems (EC2, Auto Scaling Groups, Elastic Search, Elastic Load Balancer, Route 53, RDS, Elasticache, SES)
 * Usage of CMS (Content Management Systems) such as Drupal, WordPress and other proprietary systems (Contented, custom builds)
 * Previous custom module creation for Drupal, some of which open sourced
 * Use of 3rd party systems and APIs, REST, etc.
@@ -58,8 +61,14 @@ Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
 
 # Employment History
 
-## Feb 2019 - Current: Senior PHP Developer at TradeTracker Netherlands
-* Maintainance of existing codebase
+## September 2019 - Current: Senior PHP Developer at Kiesproduct B.V.
+* Buildout of highly scalable data ingest pipeline to digest data from thousands of feeds in diverse formats
+* Buildout of new platform, greenfield build on PHP7.4, Slim Router, Elastic Search, RDS Serverless, parallelised process workers.
+* Buildout of brand new multi-cloud architecture, using best-practice infrastructure-as-code tools, highly available, highly scalable clusters of small worker machines to achieve multi-region failure-tolerance.
+* Transitioned company to using better (aiming for best) practices, including migration to Git, automated build pipelines, security and access controls, code quality review (automated, and manual)
+
+## Feb 2019 - September 2019: Senior PHP Developer at TradeTracker Netherlands
+* Maintenance of existing codebase
 * Build microservices to implement new functionality for existing applications.
 * Helped to bring forward a test-welcome approach, driving forward automated pipelines with Gitlab, PHPUnit, Docker.
 * Building new functionality to meet business requirements
