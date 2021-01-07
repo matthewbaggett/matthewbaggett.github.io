@@ -9,8 +9,6 @@ Contact by: | &nbsp;
 ---------|-----
 Telephone & Whatsapp: | +31 (0) 621 34 82 45
 Email: | [matthew@baggett.me](mailto:matthew@baggett.me)
-Telegram: | [@greyscale](https://telegram.me/greyscale)
-Skype: | matthewbaggett
 Twitter: | [@matthewbaggett](https://twitter.com/matthewbaggett)
 Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
 &nbsp;| [Gone.io github.com](https://github.com/goneio)
