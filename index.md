@@ -28,7 +28,7 @@ Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
 * Code Quality improvement and maintenance through PHPStan, Code Style enforcement through PHP-CS-Fixer. 
 * Extensive experience with dockerization of scalable services.
 * Build massively parallelized ETL pipelines for large data ingress.
-* Build automation and Management with [Github Actions](https://github.com/goneio/base-image/blob/master/.github/workflows/build.yml), Jenkins, Gitlab-CI & Travis.
+* Build Automation and Deployment Management with [Github Actions](https://github.com/goneio/base-image/blob/master/.github/workflows/build.yml), Jenkins, Gitlab-CI & Travis.
 * AWS RDS Serverless, AWS Aurora, MariaDB, MySQL and MS SQL database backends, design of database schemas upon them
 * Experienced with Redis & MQTT as cache and message brokers
 * NodeJS & Socket.io
