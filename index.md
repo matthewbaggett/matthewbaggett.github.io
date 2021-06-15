@@ -63,7 +63,7 @@ Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
 * Feature development ontop of existing legacy product.
 * Refactored large portions of their extant Laravel application, chiefly around a highly customised mail process.
 * Introduction of Unit Testing to product.
-* Introduction of CI/CD pipeline.
+* Introduction of CI/CD pipeline using Github Actions.
 * Brought in basic disaster recovery.
 
 ## September 2019 - January 2021: Senior PHP Developer at Kiesproduct B.V.
