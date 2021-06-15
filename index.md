@@ -1,8 +1,8 @@
 # Matthew Baggett
 
 I'm a Developer, Electronics Design enthusiast, Terraform Evangelist, Docker Preacher and Automation-ist. 
-I live in Maastricht, Netherlands. 
-Previously, I've lived in Almere in the Netherlands, and Manchester, Sheffield and Leicester, England. 
+I live in Almere, Netherlands. 
+Previously, I've lived in Maastricht in the Netherlands, and Manchester, Sheffield and Leicester, England. 
 I'm originally from Oxford, England.
 
 Contact by: | &nbsp; 
@@ -11,18 +11,17 @@ Telephone & Whatsapp: | +31 (0) 621 34 82 45
 Email: | [matthew@baggett.me](mailto:matthew@baggett.me)
 Twitter: | [@matthewbaggett](https://twitter.com/matthewbaggett)
 Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
-&nbsp;| [Gone.io github.com](https://github.com/goneio)
 &nbsp;| [Benzine Framework](https://github.com/benzine-framework) **WIP**
 
 # Abilities & Technologies:
 
 * Build-out of highly available, automatically scaling dockerised cluster infrastructure using Docker Swarm
-* 12 years experience of PHP (been at it since 2008!).
+* 13 years experience of PHP (been at it since 2008!).
 * Infrastructure-as-code Terraform evangelist.
 * Experienced with modern PHP7.4. Excited for PHP8.0 to go to production.
 * Slim 4, Drupal 7, Laravel & Zend (Now Lamina) Framework 2
 * Vast experience building dockerised systems 
-  * Check out [https://github.com/goneio/base-image](https://github.com/goneio/base-image) ! It’s a Dockerised baseimage for PHP+Nginx / PHP+Apache / CLI with multiple executed threads using runit and onbuild steps to make building a docker image of an app as simple as FROM gone/php:nginx!
+  * Check out [https://github.com/benzine-framework/docker](https://github.com/benzine-framework/docker) ! It’s a Dockerised baseimage for PHP+Nginx / PHP+Apache / CLI with multiple executed threads using runit and onbuild steps to make building a docker image of an app as simple as FROM benzine/php:nginx!
 * Experienced with architecting and building out scalable Microservices with AWS Auto Scaling
 * Unit Testing with PHPUnit & Integration Testing with Selenium.
 * Code Quality improvement and maintenance through PHPStan, Code Style enforcement through PHP-CS-Fixer. 
@@ -45,12 +44,12 @@ Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
 # Recent Open Source contributions:
 ## Software
 * [Benzine Framework](https://github.com/benzine-framework) - A **WIP** reorganisation of a lot of utilities into one namespace. _To supercede AppCore._
-* [Docker Base Images](https://github.com/goneio/base-image) - A set of well-built, multi-process PHP and NodeJS images using runit for service startup
+* [Docker Base Images](https://github.com/benzine-framework/docker) - A set of well-built, multi-process PHP and NodeJS images using runit for service startup
 * CloudDoctor - An orchestration tool to allow multi-vendor (Currently supporting AWS + Linode) automated deployment of Docker Swarm clusters, automated deployment of stacks of containers, automated configuration of security features such as fail2ban and automatic scaling without resorting to vendor-specific solutions such as AWS’s Auto Scaling Groups, while still being able to span a cluster across multiple vendors. https://github.com/CloudDoctor
 * Active Record implementation for Composer - Simplistic, Performant ORM. Well-tested. https://github.com/Thruio/ActiveRecord
-* UUID library for Composer - Well-tested https://github.com/Thruio/UUID
+* UUID library for Composer - Well-tested [https://github.com/matthewbaggett/UUID](https://github.com/matthewbaggett/UUID)
 * Owl Intuition to MQTT bridge - A Docker-powered Nodejs container that listens for UDP broadcasts from a proprietary household power monitor and makes it available to HomeAssistant home automation via MQTT.
-* PHP Color: Fork of hasbridge/php-color: Added Unit tests, added support for XYbri colour space for integration with Philips Hue lighting for Home Automation https://github.com/matthewbaggett/php-color
+* PHP Color: Fork of hasbridge/php-color: Added Unit tests, added support for XYbri colour space for integration with Philips Hue lighting for Home Automation [https://github.com/matthewbaggett/php-color](https://github.com/matthewbaggett/php-color)
  
 ## Hardware
 * [Traffic Light](https://matthewbaggett.github.io/Traffic-Light/) - I saw a small, cheap traffic light toy in Spain. I figured it'd make a fun desk ornament. And then I realised it'd juuuust fit an ESP8266 module inside it.
@@ -59,17 +58,25 @@ Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
 
 # Employment History
 
-## September 2019 - Current: Senior PHP Developer at Kiesproduct B.V.
-* Buildout of highly scalable data ingest pipeline to digest data from thousands of feeds in diverse formats
+## January 2021 - Current: Backend Developer
+* Started to introduce Terraform & porting application to docker running on AWS services.
+* Feature development ontop of existing legacy product.
+* Refactored large portions of their extant Laravel application, chiefly around a highly customised mail process.
+* Introduction of Unit Testing to product.
+* Introduction of CI/CD pipeline.
+* Brought in basic disaster recovery.
+
+## September 2019 - January 2021: Senior PHP Developer at Kiesproduct B.V.
+* Buildout of highly scalable data ingest pipeline to digest data from thousands of feeds in diverse formats.
 * Buildout of new platform, greenfield build on PHP7.4, Slim Router, Elastic Search, RDS Serverless, parallelised process workers.
 * Buildout of brand new multi-cloud architecture, using best-practice infrastructure-as-code tools, highly available, highly scalable clusters of small worker machines to achieve multi-region failure-tolerance.
-* Transitioned company to using better (aiming for best) practices, including migration to Git, automated build pipelines, security and access controls, code quality review (automated, and manual)
+* Transitioned company to using better (aiming for best) practices, including migration to Git, automated build pipelines, security and access controls, code quality review (automated, and manual).
 
 ## Feb 2019 - September 2019: Senior PHP Developer at TradeTracker Netherlands
-* Maintenance of existing codebase
+* Maintenance of existing codebase.
 * Build microservices to implement new functionality for existing applications.
 * Helped to bring forward a test-welcome approach, driving forward automated pipelines with Gitlab, PHPUnit, Docker.
-* Building new functionality to meet business requirements
+* Building new functionality to meet business requirements.
 * Helping migrate legacy code to remain on a supported platform.
 
 ## March 2016 - Jan 2019: Contract, then Permanent Senior PHP Developer, Docker Devops at Segura Systems LTD
