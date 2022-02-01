@@ -1,7 +1,7 @@
 # Matthew Baggett
 
-I'm a Developer, Electronics Design enthusiast, Terraform Evangelist, Docker Preacher and Automation-ist. 
-I live in Almere, Netherlands. 
+Developer, Electronics Design Enthusiast, Terraform Evangelist, Docker Preacher and Automation-ist 
+currently residing in Almere, Netherlands. 
 Previously, I've lived in Maastricht in the Netherlands, and Manchester, Sheffield and Leicester, England. 
 I'm originally from Oxford, England.
 
@@ -60,7 +60,7 @@ The latest version of my CV in PDF format is always available here: https://matt
 
 # Employment History
 ## Dec 2021 - Current: Consultancy for [large, trendy Unnamed Media Organisation].
-* Support existing platform application and pick up where the previous developer left off.
+* Support existing platform application and picked up where the previous developer left off.
 * Dockerise local development.
 * Improve production container quality.
 * Ticket bustin' for their Laravel+Vue app.
@@ -155,13 +155,13 @@ The latest version of my CV in PDF format is always available here: https://matt
 ## 6th December 2011 - January 2012: Contract PHP/Wordpress dev at Informed Solutions
 * Wordpress hacking & templating to rapidly prototype an information/geodata storage/retrieval system for Cartography
 
-## 12th May 2011 - 24th November 2011:	    PHP web developer, Docnet, Manchester
+## 12th May 2011 - 24th November 2011: PHP web developer, Docnet, Manchester
 * Zend-Based E-Commerce systems and websites, mostly in the fashion industry
 * Frontend maintenance/feature building
 * Backend issue fixing, Building new reports to customers requirements
 * PHP5, MySQL
 
-## 4th January 2011 - 30th April 2011:	PHP web developer, Motortrak, London
+## 4th January 2011 - 30th April 2011: PHP web developer, Motortrak, London
 * Legacy websites, older custom CMS sites built on Oracle database.
 * Maintenance of car dealership websites, sites for manufacturers.
 * Bug fixing and new feature development for clients.
@@ -177,13 +177,13 @@ The latest version of my CV in PDF format is always available here: https://matt
 * XSLT template work
 * Similar responsibilities to prior employment at White October
 
-## Feb 2010 - June 2010:		   Junior Web developer, I-COM, Manchester
+## Feb 2010 - June 2010: Junior Web developer, I-COM, Manchester
 * Building sites based on existing CMS system
 * Housekeeping
 * Used PHP, MySQL, jQuery & Smartie templating engine to complete mostly frontend development
 * Similar responsibilities to prior employment at White October
 
-## Dec 2008 - Jan 2010:   		Junior Web developer, White October LTD, Oxford
+## Dec 2008 - Jan 2010: Junior Web developer, White October LTD, Oxford
 * PSD design cut up into good, valid (X)HTML, using Photoshop and the Eclipse IDE, that, while using complex construction (CSS3/Transparency) still displays in a usable way (if not perfectly) in legacy browsers.
 * Developing sites in object-oriented PHP5, working with legacy PHP4 code
 * Writing functionality in jQuery (Javascript library) for various projects
