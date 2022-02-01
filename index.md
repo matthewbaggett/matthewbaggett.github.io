@@ -5,20 +5,22 @@ I live in Almere, Netherlands.
 Previously, I've lived in Maastricht in the Netherlands, and Manchester, Sheffield and Leicester, England. 
 I'm originally from Oxford, England.
 
-Contact by: | &nbsp; 
----------|-----
-Telephone & Whatsapp: | +31 (0) 621 34 82 45
-Email: | [matthew@baggett.me](mailto:matthew@baggett.me)
-Twitter: | [@matthewbaggett](https://twitter.com/matthewbaggett)
-Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
-&nbsp;| [Benzine Framework](https://github.com/benzine-framework) **WIP**
+The latest version of my CV in PDF format is always available here: https://matthewbaggett.github.io/Matthew_Baggett_CV.pdf
+
+| Contact by:           | &nbsp;                                                            |
+|-----------------------|-------------------------------------------------------------------|
+| Telephone & Whatsapp: | +31 (0) 621 34 82 45                                              |
+| Email:                | [matthew@baggett.me](mailto:matthew@baggett.me)                   |
+| Twitter:              | [@matthewbaggett](https://twitter.com/matthewbaggett)             |
+| Github Accounts:      | [Personal Github](https://github.com/matthewbaggett)              |
+| &nbsp;                | [Benzine Framework](https://github.com/benzine-framework) **WIP** |
 
 # Abilities & Technologies:
 
 * Build-out of highly available, automatically scaling dockerised cluster infrastructure using Docker Swarm
-* 13 years experience of PHP (been at it since 2008!).
+* 14 years experience of PHP (been at it since 2008!).
 * Infrastructure-as-code Terraform evangelist.
-* Experienced with modern PHP7.4. Excited for PHP8.0 to go to production.
+* Experienced with modern PHP8.0. Excited for PHP8.1 to go to production.
 * Slim 4, Drupal 7, Laravel & Zend (Now Lamina) Framework 2
 * Vast experience building dockerised systems 
   * Check out [https://github.com/benzine-framework/docker](https://github.com/benzine-framework/docker) ! It’s a Dockerised baseimage for PHP+Nginx / PHP+Apache / CLI with multiple executed threads using runit and onbuild steps to make building a docker image of an app as simple as FROM benzine/php:nginx!
@@ -57,8 +59,20 @@ Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
 * [Hexagon LEDs](https://matthewbaggett.github.io/Hexagon-LED) - Build a small, inexpensive hexagonal lighting PCB with an inexpensive microcontroller that can communicate using slow-speed software serial with the other attached nodes and to an optionally fitted ESP8266 ESP-01 module which will designate itself the "host", and populate out colour information from the center.
 
 # Employment History
+## Dec 2021 - Current: Consultancy for [large, trendy Unnamed Media Organisation].
+* Support existing platform application and pick up where the previous developer left off.
+* Dockerise local development.
+* Improve production container quality.
+* Ticket bustin' for their Laravel+Vue app.
 
-## January 2021 - Current: Backend Developer
+## August 2021 - Current: Devops & Infrastructure at [Unnamed Insuretech Client].
+* QA environments transferred from home-made node-driven CI/CD pipeline to Github Actions and Terraform with QA environments spun up on-demand by commits pushed to branches.
+* Refactoring of existing home-grown node-driven CI/CD pipeline.
+* Deployment of dozens of varied AWS assets to support the needs of the business.
+* Architecting scalable POC for other departments to support the running of a hetrogenous ecosystem of containers in various languages and platforms.
+* Primary port of call for business-focused persons to consult regarding cloud services.
+
+## January 2021 - August 2021: Backend Developer at ADPI B.V
 * Started to introduce Terraform & porting application to docker running on AWS services.
 * Feature development ontop of existing legacy product.
 * Refactored large portions of their extant Laravel application, chiefly around a highly customised mail process.
@@ -187,5 +201,5 @@ Github Accounts: | [Personal Github](https://github.com/matthewbaggett)
 While at White October, worked on starting a company in 24 hours from concept to business concept sale (complete with working code) inside of 24 hours.
 
 # Other
-
 Full UK/Dutch manual drivers licence
+Dutch Verblifstitel (Residence Permit)
