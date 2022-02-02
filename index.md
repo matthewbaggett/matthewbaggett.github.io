@@ -10,6 +10,7 @@ The latest version of my CV in PDF format is always available here: https://matt
 | Contact by:           | &nbsp;                                                            |
 |-----------------------|-------------------------------------------------------------------|
 | Telephone & Whatsapp: | +31 (0) 621 34 82 45                                              |
+| LinkedIn:             | [LinkedIn](https://www.linkedin.com/in/matthewbaggett-was-taken)  |
 | Email:                | [matthew@baggett.me](mailto:matthew@baggett.me)                   |
 | Twitter:              | [@matthewbaggett](https://twitter.com/matthewbaggett)             |
 | Github Accounts:      | [Personal Github](https://github.com/matthewbaggett)              |
