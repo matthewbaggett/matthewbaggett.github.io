@@ -59,18 +59,18 @@ The latest version of my CV in PDF format is always available here: https://matt
 * [Hexagon LEDs](https://matthewbaggett.github.io/Hexagon-LED) - Build a small, inexpensive hexagonal lighting PCB with an inexpensive microcontroller that can communicate using slow-speed software serial with the other attached nodes and to an optionally fitted ESP8266 ESP-01 module which will designate itself the "host", and populate out colour information from the center.
 
 # Employment History
-## Dec 2021 - Current: Consultancy for [large, trendy Unnamed Media Organisation].
-* Support existing platform application and picked up where the previous developer left off.
-* Dockerise local development.
-* Improve production container quality.
-* Ticket bustin' for their Laravel+Vue app.
-
 ## August 2021 - Current: Devops & Infrastructure at [Unnamed Insuretech Client].
 * QA environments transferred from home-made node-driven CI/CD pipeline to Github Actions and Terraform with QA environments spun up on-demand by commits pushed to branches.
 * Refactoring of existing home-grown node-driven CI/CD pipeline.
 * Deployment of dozens of varied AWS assets to support the needs of the business.
 * Architecting scalable POC for other departments to support the running of a hetrogenous ecosystem of containers in various languages and platforms.
 * Primary port of call for business-focused persons to consult regarding cloud services.
+
+## Dec 2021 - March 2022: Consultancy for Vice Media
+* Support existing platform application and picked up where the previous developer left off.
+* Dockerise local development.
+* Improve production container quality.
+* Ticket bustin' for their Laravel+Vue app.
 
 ## January 2021 - August 2021: Backend Developer at ADPI B.V
 * Started to introduce Terraform & porting application to docker running on AWS services.
