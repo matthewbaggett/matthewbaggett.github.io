@@ -60,6 +60,8 @@ The latest version of my CV in PDF format is always available here: https://matt
 
 # Employment History
 ## August 2021 - Current: Devops & Infrastructure at [Unnamed Insuretech Client].
+* Planning infrastructure & implementation of migration away from Heroku and AWS to self-managed private cloud
+* Implement wide-spanning deployment automation and quality control.
 * QA environments transferred from home-made node-driven CI/CD pipeline to Github Actions and Terraform with QA environments spun up on-demand by commits pushed to branches.
 * Refactoring of existing home-grown node-driven CI/CD pipeline.
 * Deployment of dozens of varied AWS assets to support the needs of the business.
