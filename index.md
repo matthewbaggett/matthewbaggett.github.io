@@ -21,7 +21,7 @@ The latest version of my CV in PDF format is always available here: https://matt
 * Expert at reducing TCO of customer cloud systems
 * 14 years experience of PHP (been at it since 2008!).
 * Infrastructure-as-code Terraform evangelist.
-* Experienced with modern PHP8.0. Excited for PHP8.1 to go to production.
+* Experienced with modern PHP. Excited for PHP8.2 to go to production.
 * Slim 4, Drupal 7, Laravel & Zend (Now Lamina) Framework 2
 * Vast experience building dockerised systems 
   * Check out [https://github.com/benzine-framework/docker](https://github.com/benzine-framework/docker) ! It’s a Dockerised baseimage for PHP+Nginx / PHP+Apache / CLI with multiple executed threads using runit and onbuild steps to make building a docker image of an app as simple as FROM benzine/php:nginx!
