@@ -204,4 +204,4 @@ While at White October, worked on starting a company in 24 hours from concept to
 
 # Other
 Full UK/Dutch manual drivers licence
-Dutch Verblifstitel (Residence Permit)
+Dutch Verblijfstitel (Residence Permit)
