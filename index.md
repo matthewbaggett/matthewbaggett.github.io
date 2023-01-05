@@ -18,6 +18,7 @@ The latest version of my CV in PDF format is always available here: https://matt
 # Abilities & Technologies:
 
 * Build-out of highly available, automatically scaling dockerised cluster infrastructure using Docker Swarm
+* Expert at reducing TCO of customer cloud systems
 * 14 years experience of PHP (been at it since 2008!).
 * Infrastructure-as-code Terraform evangelist.
 * Experienced with modern PHP8.0. Excited for PHP8.1 to go to production.
