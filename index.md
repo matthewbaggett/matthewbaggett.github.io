@@ -46,6 +46,7 @@ The latest version of my CV in PDF format is always available here: https://matt
 
 # Recent Open Source contributions:
 ## Software
+* [S3DB](https://github.com/benzine-framework/s3db) - A S3-backed ephemeral database built ontop of postgres or mysql. Intended for use in short-lived and non-mission-critical QA environments.
 * [Benzine Framework](https://github.com/benzine-framework) - A **WIP** reorganisation of a lot of utilities into one namespace. _To supercede AppCore._
 * [Docker Base Images](https://github.com/benzine-framework/docker) - A set of well-built, multi-process PHP and NodeJS images using runit for service startup
 * CloudDoctor - An orchestration tool to allow multi-vendor (Currently supporting AWS + Linode) automated deployment of Docker Swarm clusters, automated deployment of stacks of containers, automated configuration of security features such as fail2ban and automatic scaling without resorting to vendor-specific solutions such as AWS’s Auto Scaling Groups, while still being able to span a cluster across multiple vendors. https://github.com/CloudDoctor
