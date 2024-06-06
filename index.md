@@ -19,9 +19,9 @@ The latest version of my CV in PDF format is always available here: https://matt
 
 * Build-out of highly available, automatically scaling dockerised cluster infrastructure using Docker Swarm
 * Expert at reducing TCO of customer cloud systems
-* 14 years experience of PHP (been at it since 2008!).
+* 15 years experience of PHP (been at it since 2008!).
 * Infrastructure-as-code Terraform evangelist.
-* Experienced with modern PHP. Excited for PHP8.3 to go to production.
+* Experienced with modern PHP. Excited for PHP8.4 to go to production.
 * Slim 4, Drupal 7, Laravel & Zend (Now Lamina) Framework 2
 * Vast experience building dockerised systems 
   * Check out [https://github.com/benzine-framework/docker](https://github.com/benzine-framework/docker) ! It’s a Dockerised baseimage for PHP+Nginx / PHP+Apache / CLI with multiple executed threads using runit and onbuild steps to make building a docker image of an app as simple as FROM benzine/php:nginx!
@@ -61,7 +61,15 @@ The latest version of my CV in PDF format is always available here: https://matt
 * [Hexagon LEDs](https://matthewbaggett.github.io/Hexagon-LED) - Build a small, inexpensive hexagonal lighting PCB with an inexpensive microcontroller that can communicate using slow-speed software serial with the other attached nodes and to an optionally fitted ESP8266 ESP-01 module which will designate itself the "host", and populate out colour information from the center.
 
 # Employment History
-## August 2021 - Current: Devops & Infrastructure at [Unnamed Insuretech Client].
+## March 2023 - Current: Devops & Backend Engineer at [Unnamed Recruit-tech Client]
+* Buildout of a highly parallelised data ingest pipeline
+* Partial buildout of multi-tiered, multi-tenant datastore
+* Implement Github Actions CI/CD pipeline and related self-host infrastructure
+* Implement Terraform infrastructure for Production & QA environments
+* Strive for improvements to development practices.
+* Deploy bare-metal infrastructure at a fraction of the cost of cloud providers with the same level of redundancy and availability.
+
+## August 2021 - March 2023: Devops & Infrastructure at SuperScript.
 * Planning infrastructure & implementation of migration away from Heroku and AWS to self-managed private cloud
 * Implement wide-spanning deployment automation and quality control.
 * QA environments transferred from home-made node-driven CI/CD pipeline to Github Actions and Terraform with QA environments spun up on-demand by commits pushed to branches.
