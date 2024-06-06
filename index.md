@@ -5,7 +5,7 @@ currently residing in Almere, Netherlands.
 Previously, I've lived in Maastricht in the Netherlands, and Manchester, Sheffield and Leicester, England. 
 I'm originally from Oxford, England.
 
-The latest version of my CV in PDF format is always available here: https://matthewbaggett.github.io/Matthew_Baggett_CV.pdf
+The latest version of my CV in PDF format is [always available here](https://matthewbaggett.github.io/Matthew_Baggett_CV.pdf).
 
 | Contact by:           | &nbsp;                                                            |
 |-----------------------|-------------------------------------------------------------------|
