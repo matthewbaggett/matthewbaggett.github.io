@@ -47,27 +47,25 @@ The latest version of my CV in PDF format is [always available here](https://mat
 # Recent Open Source contributions:
 ## Software
 * [S3DB](https://github.com/benzine-framework/s3db) - A S3-backed ephemeral database built ontop of postgres or mysql. Intended for use in short-lived and non-mission-critical QA environments.
-* [Benzine Framework](https://github.com/benzine-framework) - A **WIP** reorganisation of a lot of utilities into one namespace. _To supercede AppCore._
-* [Docker Base Images](https://github.com/benzine-framework/docker) - A set of well-built, multi-process PHP and NodeJS images using runit for service startup
-* CloudDoctor - An orchestration tool to allow multi-vendor (Currently supporting AWS + Linode) automated deployment of Docker Swarm clusters, automated deployment of stacks of containers, automated configuration of security features such as fail2ban and automatic scaling without resorting to vendor-specific solutions such as AWS’s Auto Scaling Groups, while still being able to span a cluster across multiple vendors. https://github.com/CloudDoctor
-* Active Record implementation for Composer - Simplistic, Performant ORM. Well-tested. https://github.com/Thruio/ActiveRecord
-* UUID library for Composer - Well-tested [https://github.com/matthewbaggett/UUID](https://github.com/matthewbaggett/UUID)
-* Owl Intuition to MQTT bridge - A Docker-powered Nodejs container that listens for UDP broadcasts from a proprietary household power monitor and makes it available to HomeAssistant home automation via MQTT.
-* PHP Color: Fork of hasbridge/php-color: Added Unit tests, added support for XYbri colour space for integration with Philips Hue lighting for Home Automation [https://github.com/matthewbaggett/php-color](https://github.com/matthewbaggett/php-color)
+* [Benzine Framework](https://github.com/benzine-framework) - All of the components I build and reuse live under this psuedo-organisation/brand.
+* [Docker Base Images](https://github.com/benzine-framework#docker-images) - A set of well-built, multi-process PHP and NodeJS images using runit for service startup
+* [GitHub Actions](https://github.com/benzine-framework#actions) - A set of Github Actions that I use to build and deploy my projects.
  
 ## Hardware
+* [TechInc Badge](https://code.techinc.nl/grey/badge) - A badge for the TechInc hackerspace in Amsterdam. It is a work in progress but recently had its first prototype run of the front display assembly. It features a 70x40 pixel mono OLED display, a few buttons, an accelerometer and a USB C charge port. Driving it is a f1c200s linux SoC and a RP2040 microcontroller, plus power + battery management.
 * [Traffic Light](https://matthewbaggett.github.io/Traffic-Light/) - I saw a small, cheap traffic light toy in Spain. I figured it'd make a fun desk ornament. And then I realised it'd juuuust fit an ESP8266 module inside it.
 * [Tamagotchya](https://matthewbaggett.github.io/Tamagotchya) - A **WIP** 2019 Tamagotchi Clone featuring Wifi, Bluetooth and a 128x64 pixel oLED display, 5 way D pad and an accelerometer and a USB C charge port.
 * [Hexagon LEDs](https://matthewbaggett.github.io/Hexagon-LED) - Build a small, inexpensive hexagonal lighting PCB with an inexpensive microcontroller that can communicate using slow-speed software serial with the other attached nodes and to an optionally fitted ESP8266 ESP-01 module which will designate itself the "host", and populate out colour information from the center.
 
 # Employment History
-## March 2023 - Current: Devops & Backend Engineer at [Unnamed Recruit-tech Client]
+## March 2023 - August: Devops & Backend Engineer at One Up Sales / Stormburst Studios
 * Buildout of a highly parallelised data ingest pipeline
 * Partial buildout of multi-tiered, multi-tenant datastore
-* Implement Github Actions CI/CD pipeline and related self-host infrastructure
+* Implement GitHub Actions CI/CD pipeline and related self-host infrastructure
 * Implement Terraform infrastructure for Production & QA environments
 * Strive for improvements to development practices.
 * Deploy bare-metal infrastructure at a fraction of the cost of cloud providers with the same level of redundancy and availability.
+* Multi-provider cloud infrastructure built for availability and redundency within cost constraints.
 
 ## August 2021 - March 2023: Devops & Infrastructure at SuperScript.
 * Planning infrastructure & implementation of migration away from Heroku and AWS to self-managed private cloud
