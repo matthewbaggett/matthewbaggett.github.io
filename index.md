@@ -19,12 +19,13 @@ The latest version of my CV in PDF format is [always available here](https://mat
 
 * Build-out of highly available, automatically scaling dockerised cluster infrastructure using Docker Swarm
 * Expert at reducing TCO of customer cloud systems
-* 15 years experience of PHP (been at it since 2008!).
-* Infrastructure-as-code Terraform evangelist.
+* 17 years experience of PHP (been at it since 2008!).
+* Infrastructure-as-code Terraform evangelist. 
+  * I have a large repo of [Opinated Terraform Modules](https://github.com/matthewbaggett/terraform_modules) that let me build out scalable infrastructure in minutes.
 * Experienced with modern PHP. Excited for PHP8.4 to go to production.
 * Slim 4, Drupal 7, Laravel & Zend (Now Lamina) Framework 2
 * Vast experience building dockerised systems 
-  * Check out [https://github.com/benzine-framework/docker](https://github.com/benzine-framework/docker) ! It’s a Dockerised baseimage for PHP+Nginx / PHP+Apache / CLI with multiple executed threads using runit and onbuild steps to make building a docker image of an app as simple as FROM benzine/php:nginx!
+  * Check out [Benzine/Docker](https://github.com/benzine-framework/docker) ! It’s a Dockerised baseimage for PHP+Nginx / PHP+Apache / CLI with multiple executed threads using runit and onbuild steps to make building a docker image of an app as simple as FROM benzine/php:nginx!
 * Experienced with architecting and building out scalable Microservices with AWS Auto Scaling
 * Unit Testing with PHPUnit & Integration Testing with Selenium.
 * Code Quality improvement and maintenance through PHPStan, Code Style enforcement through PHP-CS-Fixer. 
@@ -58,6 +59,9 @@ The latest version of my CV in PDF format is [always available here](https://mat
 * [Hexagon LEDs](https://matthewbaggett.github.io/Hexagon-LED) - Build a small, inexpensive hexagonal lighting PCB with an inexpensive microcontroller that can communicate using slow-speed software serial with the other attached nodes and to an optionally fitted ESP8266 ESP-01 module which will designate itself the "host", and populate out colour information from the center.
 
 # Employment History
+## August - Present: Freelance Devops & Software Engineer for various entities
+* Varied infrastructure and development work.
+
 ## March 2023 - August: Devops & Backend Engineer at One Up Sales / Stormburst Studios
 * Buildout of a highly parallelised data ingest pipeline
 * Partial buildout of multi-tiered, multi-tenant datastore
@@ -211,5 +215,5 @@ The latest version of my CV in PDF format is [always available here](https://mat
 While at White October, worked on starting a company in 24 hours from concept to business concept sale (complete with working code) inside of 24 hours.
 
 # Other
-Full UK/Dutch manual drivers licence
+Full Manual drivers licence
 Dutch Verblijfstitel (Residence Permit)
