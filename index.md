@@ -7,21 +7,23 @@ I'm originally from Oxford, England.
 
 The latest version of my CV in PDF format is [always available here](https://matthewbaggett.github.io/Matthew_Baggett_CV.pdf).
 
-| Contact by:           | &nbsp;                                                            |
-|-----------------------|-------------------------------------------------------------------|
-| Telephone & Whatsapp: | +31 (0) 621 34 82 45                                              |
-| LinkedIn:             | [LinkedIn](https://www.linkedin.com/in/matthewbaggett-was-taken)  |
-| Email:                | [matthew@baggett.me](mailto:matthew@baggett.me)                   |
-| Github Accounts:      | [Personal Github](https://github.com/matthewbaggett)              |
-| &nbsp;                | [Benzine Framework](https://github.com/benzine-framework) **WIP** |
+| Contact by:               | &nbsp;                                                            |
+|---------------------------|-------------------------------------------------------------------|
+| Contracting Company Site: | [Grey.ooo](https://grey.ooo)                                      |
+| Telephone & Whatsapp:     | +31 (0) 621 34 82 45                                              |
+| LinkedIn:                 | [LinkedIn](https://www.linkedin.com/in/matthewbaggett-was-taken)  |
+| Email:                    | [matthew@baggett.me](mailto:matthew@baggett.me)                   |
+| Github Accounts:          | [Personal Github](https://github.com/matthewbaggett)              |
+| &nbsp;                    | [Benzine Framework](https://github.com/benzine-framework) **WIP** |
 
 # Abilities & Technologies:
 
-* Build-out of highly available, automatically scaling dockerised cluster infrastructure using Docker Swarm
-* Expert at reducing TCO of customer cloud systems
+* Build-out of highly available, automatically scaling dockerised cluster infrastructure using Docker Swarm.
+* Conversion of existing infrastructure and legacy applications into scalable, fault-tolerant dockerised solutions.
+* Expert at reducing TCO of customer cloud systems.
 * 17 years experience of PHP (been at it since 2008!).
 * Infrastructure-as-code Terraform evangelist. 
-  * I have a large repo of [Opinated Terraform Modules](https://github.com/matthewbaggett/terraform_modules) that let me build out scalable infrastructure in minutes.
+  * I have a large repo of [Opinionated Terraform Modules](https://github.com/matthewbaggett/terraform_modules) that let me build out scalable infrastructure in minutes.
 * Experienced with modern PHP. Excited for PHP8.4 to go to production.
 * Slim 4, Drupal 7, Laravel & Zend (Now Lamina) Framework 2
 * Vast experience building dockerised systems 
@@ -42,21 +44,29 @@ The latest version of my CV in PDF format is [always available here](https://mat
 * Previous custom module creation for Drupal, some of which open sourced
 * Use of 3rd party systems and APIs, REST, etc.
 * W3C standards compliance for the web
-* Knowledge of Nginx & Apache
+* Knowledge of Traefik, Nginx & Apache
 * Working in a team on large projects with source control such as Git & Subversion
 
 # Recent Open Source contributions:
 ## Software
+* [Opinionated Terraform Modules](https://github.com/matthewbaggett/terraform_modules) - A large collection of opinionated Terraform modules that mostly lego-brick their way together using traefik and a few choice design decisions. Not everything in here is fully fleshed out, but most of it is in use somewhere.
 * [S3DB](https://github.com/benzine-framework/s3db) - A S3-backed ephemeral database built ontop of postgres or mysql. Intended for use in short-lived and non-mission-critical QA environments.
 * [Benzine Framework](https://github.com/benzine-framework) - All of the components I build and reuse live under this psuedo-organisation/brand.
 * [Docker Base Images](https://github.com/benzine-framework#docker-images) - A set of well-built, multi-process PHP and NodeJS images using runit for service startup
 * [GitHub Actions](https://github.com/benzine-framework#actions) - A set of Github Actions that I use to build and deploy my projects.
  
 ## Hardware
+<a href="https://code.techinc.nl/grey/badge/raw/branch/main/render.png">
+  <img style="clear: right; float: right" alt="Image of the TI badge as a render" src="./images/ti_badge.png">
+</a>
+
 * [TechInc Badge](https://code.techinc.nl/grey/badge) - A badge for the TechInc hackerspace in Amsterdam. It is a work in progress but recently had its first prototype run of the front display assembly. It features a 70x40 pixel mono OLED display, a few buttons, an accelerometer and a USB C charge port. Driving it is a f1c200s linux SoC and a RP2040 microcontroller, plus power + battery management.
-* [Traffic Light](https://matthewbaggett.github.io/Traffic-Light/) - I saw a small, cheap traffic light toy in Spain. I figured it'd make a fun desk ornament. And then I realised it'd juuuust fit an ESP8266 module inside it.
 * [Tamagotchya](https://matthewbaggett.github.io/Tamagotchya) - A **WIP** 2019 Tamagotchi Clone featuring Wifi, Bluetooth and a 128x64 pixel oLED display, 5 way D pad and an accelerometer and a USB C charge port.
-* [Hexagon LEDs](https://matthewbaggett.github.io/Hexagon-LED) - Build a small, inexpensive hexagonal lighting PCB with an inexpensive microcontroller that can communicate using slow-speed software serial with the other attached nodes and to an optionally fitted ESP8266 ESP-01 module which will designate itself the "host", and populate out colour information from the center.
+<a href="/images/traffic_light.mp4"><img style="float: right" alt="Small toy traffic light now wifi-controlled" src="./images/traffic_light.png"></a>
+* [Traffic Light](https://matthewbaggett.github.io/Traffic-Light/) - I saw a small, cheap traffic light toy in Spain. I figured it'd make a fun desk ornament. And then I realised it'd juuuust fit an ESP8266 module inside it. Pictured is one of the two traffic lights with the circuitry fitted, a spare infront of it with the programming header still attached for illustration. Click the picture to see a short video clip of it cycling. It runs Tasmota under the hood and is plugged into Home-Assistant. At the time, it signalled system 'health' as an on-desk chotchky for monitoring systems.
+* [Hexagon LEDs](https://matthewbaggett.github.io/Hexagon-LED) - Build a small, inexpensive hexagonal lighting PCB with an inexpensive microcontroller that can communicate using slow-speed software serial with the other attached nodes and to an optionally fitted ESP8266 ESP-01 module which will designate itself the "host", and populate out colour information from the center. This project was scuppered by the 2020-2022 chip crisis.
+<img style="clear: right; float: right" alt="Image of the TI badge as a render" src="./images/axp2101_breakout.png">
+* AXP2101 Breakout - The [AXP2101](https://jlcpcb.com/partdetail/X_PowersTech-AXP2101/C3036461) is a really neat PMIC (Power Management Integrated Circuit) found in a lot of low-end laptops, smartphones etc. It has an interesting featureset, but its minimal circuit is relatively complicated, and requires reflowing a hard-to-hand-assemble (but not impossible) QFN40 package, so I designed a breakout for it to make it hobby-accessible. It has a lot of features like battery management/protection, current metering, e-gauge (where it meters the columbs of energy inserted/removed from the lithium cell) and dynamically programmable voltage rails: 4 high-efficiency high-power buck converters, and 11 LDOs. It also has some other trick features like a hardware watchdog and soft-touch power on/off features for your product.
 
 # Employment History
 ## August - Present: Freelance Devops & Software Engineer for various entities
