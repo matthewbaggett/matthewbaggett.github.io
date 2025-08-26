@@ -18,16 +18,16 @@ The latest version of my CV in PDF format is [always available here](https://mat
 
 # Abilities & Technologies:
 
-* Build-out of highly available, automatically scaling dockerised cluster infrastructure using Docker Swarm.
-* Conversion of existing infrastructure and legacy applications into scalable, fault-tolerant dockerised solutions.
+* Build-out of highly available, automatically scaling containerized cluster infrastructure using Docker Swarm.
+* Conversion of existing infrastructure and legacy applications into scalable, fault-tolerant dockerized solutions.
 * Expert at reducing TCO of customer cloud systems.
 * 17 years experience of PHP (been at it since 2008!).
 * Infrastructure-as-code Terraform evangelist. 
   * I have a large repo of [Opinionated Terraform Modules](https://github.com/matthewbaggett/terraform_modules) that let me build out scalable infrastructure in minutes.
 * Experienced with modern PHP. Excited for PHP8.4 to go to production.
-* Slim 4, Drupal 7, Laravel & Zend (Now Lamina) Framework 2
-* Vast experience building dockerised systems 
-  * Check out [Benzine/Docker](https://github.com/benzine-framework/docker) ! It’s a Dockerised baseimage for PHP+Nginx / PHP+Apache / CLI with multiple executed threads using runit and onbuild steps to make building a docker image of an app as simple as FROM benzine/php:nginx!
+* Symfony Slim 4, Drupal 7, Laravel & Zend (Now Lamina) Framework 2
+* Vast experience building containerized systems 
+  * Check out [Benzine/Docker](https://github.com/benzine-framework/docker) ! It’s a Dockerized baseimage for PHP+Nginx / PHP+Apache / CLI with multiple executed threads using runit and onbuild steps to make building a docker image of an app as simple as FROM benzine/php:nginx!
 * Experienced with architecting and building out scalable Microservices with AWS Auto Scaling
 * Unit Testing with PHPUnit & Integration Testing with Selenium.
 * Code Quality improvement and maintenance through PHPStan, Code Style enforcement through PHP-CS-Fixer. 
@@ -36,12 +36,9 @@ The latest version of my CV in PDF format is [always available here](https://mat
 * Build Automation and Deployment Management with [Github Actions](https://github.com/goneio/base-image/blob/master/.github/workflows/build.yml), Jenkins, Gitlab-CI & Travis.
 * AWS RDS Serverless, AWS Aurora, MariaDB, MySQL and MS SQL database backends, design of database schemas upon them
 * Experienced with Redis & MQTT as cache and message brokers
-* NodeJS & Socket.io
-* Javascript with and without the jQuery library, as well as implementation of AJAX features.
-* HTML 4/5 & CSS 2/3 templating from designer-provided designs
 * Amazon AWS cloud systems (EC2, Auto Scaling Groups, Elastic Search, Elastic Load Balancer, Route 53, RDS, Elasticache, SES)
 * Usage of CMS (Content Management Systems) such as Drupal, WordPress and other proprietary systems (Contented, custom builds)
-* Previous custom module creation for Drupal, some of which open sourced
+* Custom module creation for Drupal.
 * Use of 3rd party systems and APIs, REST, etc.
 * W3C standards compliance for the web
 * Knowledge of Traefik, Nginx & Apache
@@ -49,7 +46,7 @@ The latest version of my CV in PDF format is [always available here](https://mat
 
 # Recent Open Source contributions:
 ## Software
-* [Opinionated Terraform Modules](https://github.com/matthewbaggett/terraform_modules) - A large collection of opinionated Terraform modules that mostly lego-brick their way together using traefik and a few choice design decisions. Not everything in here is fully fleshed out, but most of it is in use somewhere.
+* [Opinionated.tf - Opinionated Terraform Modules](https://github.com/matthewbaggett/terraform_modules) - A large collection of opinionated Terraform modules that mostly lego-brick their way together using traefik and a few choice design decisions. Not everything in here is fully fleshed out, but most of it is in use somewhere.
 * [S3DB](https://github.com/benzine-framework/s3db) - A S3-backed ephemeral database built ontop of postgres or mysql. Intended for use in short-lived and non-mission-critical QA environments.
 * [Benzine Framework](https://github.com/benzine-framework) - All of the components I build and reuse live under this psuedo-organisation/brand.
 * [Docker Base Images](https://github.com/benzine-framework#docker-images) - A set of well-built, multi-process PHP and NodeJS images using runit for service startup
@@ -70,10 +67,13 @@ The latest version of my CV in PDF format is [always available here](https://mat
 
 # Employment History
 ## August 2024 - Present: Freelance Devops & Software Engineer for various entities
-* Varied infrastructure and development work.
+* Varied infrastructure and development work for different clients, mostly revolving around ecommerce platforms.
+* Scalable, Containerized AWS infrastructure buildout - Terraform, Docker, Github Actions.
+* Containerized of legacy applications and gradual replacements.
+* Maintenance of existing infrastructure and applications, buildout of new runtime environments for existing applications.
 
 ## March 2023 - August 2024: Devops & Backend Engineer at One Up Sales / Stormburst Studios
-* Buildout of a highly parallelised data ingest pipeline
+* Buildout of a highly parallelized data ingest pipeline
 * Partial buildout of multi-tiered, multi-tenant datastore
 * Implement GitHub Actions CI/CD pipeline and related self-host infrastructure
 * Implement Terraform infrastructure for Production & QA environments
@@ -81,32 +81,32 @@ The latest version of my CV in PDF format is [always available here](https://mat
 * Deploy bare-metal infrastructure at a fraction of the cost of cloud providers with the same level of redundancy and availability.
 * Multi-provider cloud infrastructure built for availability and redundency within cost constraints.
 
-## August 2021 - March 2023: Devops & Infrastructure at SuperScript.
+## August 2021 - March 2023: Devops & Infrastructure at SuperScript BV.
 * Planning infrastructure & implementation of migration away from Heroku and AWS to self-managed private cloud
 * Implement wide-spanning deployment automation and quality control.
 * QA environments transferred from home-made node-driven CI/CD pipeline to Github Actions and Terraform with QA environments spun up on-demand by commits pushed to branches.
 * Refactoring of existing home-grown node-driven CI/CD pipeline.
 * Deployment of dozens of varied AWS assets to support the needs of the business.
-* Architecting scalable POC for other departments to support the running of a hetrogenous ecosystem of containers in various languages and platforms.
+* Architecting scalable POC for other departments to support the running of a heterogeneous ecosystem of containers in various languages and platforms.
 * Primary port of call for business-focused persons to consult regarding cloud services.
 
 ## Dec 2021 - March 2022: Consultancy for Vice Media
 * Support existing platform application and picked up where the previous developer left off.
-* Dockerise local development.
+* Dockerize local development.
 * Improve production container quality.
 * Ticket bustin' for their Laravel+Vue app.
 
 ## January 2021 - August 2021: Backend Developer at ADPI B.V
 * Started to introduce Terraform & porting application to docker running on AWS services.
 * Feature development ontop of existing legacy product.
-* Refactored large portions of their extant Laravel application, chiefly around a highly customised mail process.
+* Refactored large portions of their extant Laravel application, chiefly around a highly customized mail process.
 * Introduction of Unit Testing to product.
 * Introduction of CI/CD pipeline using Github Actions.
 * Brought in basic disaster recovery.
 
 ## September 2019 - January 2021: Senior PHP Developer at Kiesproduct B.V.
 * Buildout of highly scalable data ingest pipeline to digest data from thousands of feeds in diverse formats.
-* Buildout of new platform, greenfield build on PHP7.4, Slim Router, Elastic Search, RDS Serverless, parallelised process workers.
+* Buildout of new platform, greenfield build on PHP7.4, Slim Router, Elastic Search, RDS Serverless, parallelized process workers.
 * Buildout of brand new multi-cloud architecture, using best-practice infrastructure-as-code tools, highly available, highly scalable clusters of small worker machines to achieve multi-region failure-tolerance.
 * Transitioned company to using better (aiming for best) practices, including migration to Git, automated build pipelines, security and access controls, code quality review (automated, and manual).
 
@@ -118,7 +118,7 @@ The latest version of my CV in PDF format is [always available here](https://mat
 * Helping migrate legacy code to remain on a supported platform.
 
 ## March 2016 - Jan 2019: Contract, then Permanent Senior PHP Developer, Docker Devops at Segura Systems LTD
-* Architected & built-out a new Microservices-based, Dockerised system to move a legacy product forward, to migrate the existing product away from a legacy PHP 5.6 codebase into a modern PHP 7.3 application.
+* Architected & built-out a new Microservices-based, Dockerized system to move a legacy product forward, to migrate the existing product away from a legacy PHP 5.6 codebase into a modern PHP 7.3 application.
 * Using Slim 3, Composer, ZF2 DB, Monolog plugged into Rollbar, PHPUnit.
 * Packaged reusable assets into an open-sourced common core library that depended upon upstream technologies (Forked at https://github.com/matthewbaggett/AppCore).
 * Built custom tooling to generate consistent CRUD Controllers, Models, Table Gateways and Tests.
@@ -219,10 +219,6 @@ The latest version of my CV in PDF format is [always available here](https://mat
 
 ## Summer 2008: Freelance Web Developer
 * Employed by EquineTelemetry over the summer of '08 to construct a website to sell a cellular-based alarm system for tracking stolen heavy plant equipment from building sites in Australia.
-
-# Other relevant projects & experiences:
-## Contributed to The 24 Hour startup: 
-While at White October, worked on starting a company in 24 hours from concept to business concept sale (complete with working code) inside of 24 hours.
 
 # Other
 Full Manual drivers licence
