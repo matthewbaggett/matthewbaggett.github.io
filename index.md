@@ -16,6 +16,10 @@ The latest version of my CV in PDF format is [always available here](https://mat
 | Github Accounts:          | [Personal Github](https://github.com/matthewbaggett)              |
 | &nbsp;                    | [Benzine Framework](https://github.com/benzine-framework) **WIP** |
 
+There are some links to the opensource software I have written or contributed to in the [Recent Open Source contributions](#ephemeral-things-i-can-share) section below.
+There are also [some pictures of hardware projects I've worked on](#physical-things-i-can-share) at the bottom of this document.
+
+<a name="feats-performed"></a>
 # Abilities & Technologies:
 
 * Build-out of highly available, automatically scaling containerized cluster infrastructure using Docker Swarm.
@@ -44,6 +48,7 @@ The latest version of my CV in PDF format is [always available here](https://mat
 * Knowledge of Traefik, Nginx & Apache
 * Working in a team on large projects with source control such as Git & Subversion
 
+<a name="things-ive-done"></a>
 # Employment History
 ## August 2024 - Current: Freelance Devops & Software Engineer at Grey.ooo
 * Varied infrastructure and development work for different clients, mostly revolving around ecommerce platforms.
@@ -195,6 +200,7 @@ The latest version of my CV in PDF format is [always available here](https://mat
 * Custom PHP modules for CMS
 * Wordpress blogs and skinning
 
+<a name="ephemeral-things-i-can-share"></a>
 # Recent Open Source contributions:
 ## Software
 * [Opinionated.tf - Opinionated Terraform Modules](https://github.com/matthewbaggett/terraform_modules) - A large collection of opinionated Terraform modules that mostly lego-brick their way together using traefik and a few choice design decisions. Not everything in here is fully fleshed out, but most of it is in use somewhere.
@@ -203,6 +209,7 @@ The latest version of my CV in PDF format is [always available here](https://mat
 * [Docker Base Images](https://github.com/benzine-framework#docker-images) - A set of well-built, multi-process PHP and NodeJS images using runit for service startup
 * [GitHub Actions](https://github.com/benzine-framework#actions) - A set of Github Actions that I use to build and deploy my projects.
 
+<a name="physical-things-i-can-share"></a>
 ## Hardware
 <a href="https://code.techinc.nl/grey/badge/raw/branch/main/render.png">
   <img style="clear: right; float: right" alt="Image of the TI badge as a render" src="./images/ti_badge.png">
