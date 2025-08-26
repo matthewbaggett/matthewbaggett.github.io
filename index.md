@@ -66,7 +66,7 @@ The latest version of my CV in PDF format is [always available here](https://mat
 * AXP2101 Breakout - The [AXP2101](https://jlcpcb.com/partdetail/X_PowersTech-AXP2101/C3036461) is a really neat PMIC (Power Management Integrated Circuit) found in a lot of low-end laptops, smartphones etc. It has an interesting featureset, but its minimal circuit is relatively complicated, and requires reflowing a hard-to-hand-assemble (but not impossible) QFN40 package, so I designed a breakout for it to make it hobby-accessible. It has a lot of features like battery management/protection, current metering, e-gauge (where it meters the columbs of energy inserted/removed from the lithium cell) and dynamically programmable voltage rails: 4 high-efficiency high-power buck converters, and 11 LDOs. It also has some other trick features like a hardware watchdog and soft-touch power on/off features for your product.
 
 # Employment History
-## August 2024 - Present: Freelance Devops & Software Engineer for various entities
+## August 2024 - Current: Freelance Devops & Software Engineer at Grey.ooo
 * Varied infrastructure and development work for different clients, mostly revolving around ecommerce platforms.
 * Scalable, Containerized AWS infrastructure buildout - Terraform, Docker, Github Actions.
 * Containerized of legacy applications and gradual replacements.
