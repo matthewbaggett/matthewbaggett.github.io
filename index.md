@@ -51,14 +51,14 @@ There are also [some pictures of hardware projects I've worked on](#physical-thi
 ### Freelance Devops & Software Engineer
 *Grey.ooo: August 2024 - Current*
 * Varied infrastructure and development work for different clients, mostly revolving around ecommerce platforms.
-* Scalable, Containerized AWS infrastructure buildout - Terraform, Docker, Github Actions.
+* Scalable, Containerized AWS infrastructure build-out - Terraform, Docker, Github Actions.
 * Containerized of legacy applications and gradual replacements.
-* Maintenance of existing infrastructure and applications, buildout of new runtime environments for existing applications.
+* Maintenance of existing infrastructure and applications, build-out of new runtime environments for existing applications.
 
 ### Devops & Backend Engineer
 *One Up Sales/Stormburst Studios: March 2023 - August 2024*
-* Buildout of a highly parallelized data ingest pipeline
-* Partial buildout of multi-tiered, multi-tenant datastore
+* build-out of a highly parallelized data ingest pipeline
+* Partial build-out of multi-tiered, multi-tenant datastore
 * Implement GitHub Actions CI/CD pipeline and related self-host infrastructure
 * Implement Terraform infrastructure for Production & QA environments
 * Strive for improvements to development practices.
@@ -93,9 +93,9 @@ There are also [some pictures of hardware projects I've worked on](#physical-thi
 
 ### Senior PHP Developer
 *Kiesproduct B.V: September 2019 - January 2021*
-* Buildout of highly scalable data ingest pipeline to digest data from thousands of feeds in diverse formats.
-* Buildout of new platform, greenfield build on PHP7.4, Slim Router, Elastic Search, RDS Serverless, parallelized process workers.
-* Buildout of brand new multi-cloud architecture, using best-practice infrastructure-as-code tools, highly available, highly scalable clusters of small worker machines to achieve multi-region failure-tolerance.
+* build-out of highly scalable data ingest pipeline to digest data from thousands of feeds in diverse formats.
+* build-out of new platform, greenfield build on PHP7.4, Slim Router, Elastic Search, RDS Serverless, parallelized process workers.
+* build-out of brand new multi-cloud architecture, using best-practice infrastructure-as-code tools, highly available, highly scalable clusters of small worker machines to achieve multi-region failure-tolerance.
 * Transitioned company to using better (aiming for best) practices, including migration to Git, automated build pipelines, security and access controls, code quality review (automated, and manual).
 
 ### Senior PHP Developer 
