@@ -1,8 +1,9 @@
 # Matthew Baggett
 
-Developer, Electronics Design Enthusiast, Terraform Evangelist, Docker Preacher and Automation-ist 
+PHP Developer, Electronics Design Enthusiast, Terraform Evangelist, Docker Preacher and CI/CD Automation-ist 
 currently residing in Almere, Netherlands. 
-Previously, I've lived in Maastricht in the Netherlands, and Manchester, Sheffield and Leicester, England. 
+Previously, I've lived in Maastricht in the Netherlands, and Manchester, Sheffield and Leicester, England.
+I've written things in a variety of languages outside of the PHP ecosystem, but I always seem to come back to it as a pragmatic choice.
 I'm originally from Oxford, England.
 
 The latest version of my CV in PDF format is [always available here](https://matthewbaggett.github.io/Matthew_Baggett_CV.pdf).
@@ -27,7 +28,7 @@ There are also [some pictures of hardware projects I've worked on](#physical-thi
 * Expert at reducing TCO of customer cloud systems.
 * 17 years experience of PHP (been at it since 2008!).
 * Infrastructure-as-code Terraform evangelist. (I have a large repo of [Opinionated Terraform Modules](https://github.com/matthewbaggett/terraform_modules) that let me build out scalable infrastructure in minutes.)
-* Experienced with modern PHP. Excited for PHP8.4 to go to production.
+* Experienced with modern PHP. [Excited for PHP8.5 to go to production](https://php.watch/versions/8.5/pipe-operator).
 * Symfony Slim 4, Drupal 7, Laravel & Zend (Now Lamina) Framework 2
 * Vast experience building containerized systems with Docker, Orchestration and Terraform.
 * Experienced with architecting and building out scalable Microservices with AWS Auto Scaling
