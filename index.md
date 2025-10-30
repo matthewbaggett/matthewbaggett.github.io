@@ -25,18 +25,20 @@ There are also [some pictures of hardware projects I've worked on](#physical-thi
 
 * Build-out of highly available, automatically scaling containerized cluster infrastructure using Docker Swarm.
 * Conversion of existing infrastructure and legacy applications into scalable, fault-tolerant dockerized solutions.
-* Expert at reducing TCO of customer cloud systems.
+* IAC with Terraform.
+* Long experience with cloud & bare metal linux server management, experience with buildroot-based embedded linux systems.
+* Virtualization with VMware ESXi, Proxmox VE
+* Build Automation and Deployment Management with [Github Actions](https://github.com/goneio/base-image/blob/master/.github/workflows/build.yml), Jenkins, Gitlab-CI & Travis.
+* Extensive experience with dockerization of scalable services and orchestration.
 * 17 years experience of PHP (been at it since 2008!).
+* Expert at reducing TCO of customer cloud systems.
 * Infrastructure-as-code Terraform evangelist. (I have a large repo of [Opinionated Terraform Modules](https://github.com/matthewbaggett/terraform_modules) that let me build out scalable infrastructure in minutes.)
 * Experienced with modern PHP. [Excited for PHP8.5 to go to production](https://php.watch/versions/8.5/pipe-operator).
 * Symfony Slim 4, Drupal 7, Laravel & Zend (Now Lamina) Framework 2
-* Vast experience building containerized systems with Docker, Orchestration and Terraform.
 * Experienced with architecting and building out scalable Microservices with AWS Auto Scaling
 * Unit Testing with PHPUnit & Integration Testing with Selenium.
-* Code Quality improvement and maintenance through PHPStan, Code Style enforcement through PHP-CS-Fixer. 
-* Extensive experience with dockerization of scalable services.
+* Code Quality improvement and maintenance through PHPStan, Code Style enforcement through PHP-CS-Fixer.
 * Build massively parallelized ETL pipelines for large data ingress.
-* Build Automation and Deployment Management with [Github Actions](https://github.com/goneio/base-image/blob/master/.github/workflows/build.yml), Jenkins, Gitlab-CI & Travis.
 * AWS RDS Serverless, AWS Aurora, MariaDB, MySQL and MS SQL database backends, design of database schemas upon them
 * Experienced with Redis & MQTT as cache and message brokers
 * Amazon AWS cloud systems (EC2, Auto Scaling Groups, Elastic Search, Elastic Load Balancer, Route 53, RDS, Elasticache, SES)
@@ -55,6 +57,7 @@ There are also [some pictures of hardware projects I've worked on](#physical-thi
 * Scalable, Containerized AWS infrastructure build-out - Terraform, Docker, Github Actions.
 * Containerized of legacy applications and gradual replacements.
 * Maintenance of existing infrastructure and applications, build-out of new runtime environments for existing applications.
+* Embedded linux system design & microcontroller firmware development.
 
 ### Devops & Backend Engineer
 *One Up Sales/Stormburst Studios: March 2023 - August 2024*
