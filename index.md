@@ -174,12 +174,12 @@ There are also [some pictures of hardware projects I've worked on](#physical-thi
 * Creating mini-sites for customers programmatically, purchasing domain, handling payment from PayPal, setting up the DNS entries as appropriate for domain with Amazon Route 53, creating site structure on server, allowing user to select a template from presets, allowing user to input their content inline into their site.
 
 ### Contract PHP developer
-* VoucherCloud / Invitiation Digital: February 2012 - May 2012
+*VoucherCloud / Invitiation Digital: February 2012 - May 2012*
 * Maintenance and improvement work on existing codebase
 * New style revamp of site section (HTML/CSS/jQuery/Photoshop)
 
 ### Contract PHP/Wordpress dev
-*Informed Solutions: Dec 2011 - Jan 2012
+*Informed Solutions: Dec 2011 - Jan 2012*
 * Wordpress hacking & templating to rapidly prototype an information/geodata storage/retrieval system for Cartography
 
 ### PHP Developer
