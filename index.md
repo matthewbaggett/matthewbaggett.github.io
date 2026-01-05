@@ -69,7 +69,7 @@ There are also [some pictures of hardware projects I've worked on](#physical-thi
 * Deploy bare-metal infrastructure at a fraction of the cost of cloud providers with the same level of redundancy and availability.
 * Multi-provider cloud infrastructure built for availability and redundency within cost constraints.
 
-### Devops & Infrastructure at SuperScript BV.
+### Devops & Infrastructure Engineer
 *Superscript B.V: August 2021 - March 2023*
 * Planning infrastructure & implementation of migration away from Heroku and AWS to self-managed private cloud
 * Implement wide-spanning deployment automation and quality control.
@@ -79,7 +79,7 @@ There are also [some pictures of hardware projects I've worked on](#physical-thi
 * Architecting scalable POC for other departments to support the running of a heterogeneous ecosystem of containers in various languages and platforms.
 * Primary port of call for business-focused persons to consult regarding cloud services.
 
-### Devops + Laravel Developer 
+### Devops Engineer & Laravel Developer 
 *Vice Media: Dec 2021 - March 2022*
 * Support existing advertising platform application and picked up where the previous developer left off.
 * Dockerize local development.
