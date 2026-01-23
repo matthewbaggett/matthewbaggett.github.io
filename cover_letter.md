@@ -4,7 +4,9 @@ Hello! you're reading this because your job application required a cover letter.
 
 The number of unpaid global man hours wasted on writing a puff-piece for an organisation is unacceptable, and honestly cruel, and perhaps your organisations ethics board should review it.
 
-It is quite disingenuous to waste your own time reading AI generated candidate slop. I don't want to disrespect your time making you read the thoughts of a clanker.
+It is quite disingenuous to waste your own time reading AI generated candidate slop. 
+
+*I don't want to disrespect your time & intellegence subjecting you to reading the thoughts of a clanker.*
 
 ### Do you like theater?
 
