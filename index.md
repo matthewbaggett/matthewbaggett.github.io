@@ -1,6 +1,6 @@
 # Matthew Baggett
 
-PHP Developer, Electronics Design Enthusiast, Terraform Evangelist, Docker Preacher and CI/CD Automation-ist 
+PHP Developer, Electronics Design Enthusiast, Cloud fondler, Infrastructure as Code Evangelist, Docker Preacher and CI/CD Automation-ist 
 currently residing in Almere, Netherlands. 
 Previously, I've lived in Maastricht in the Netherlands, and Manchester, Sheffield and Leicester, England.
 I've written things in a variety of languages outside of the PHP ecosystem, but I always seem to come back to it as a pragmatic choice.
@@ -11,7 +11,7 @@ The latest version of my CV in PDF format is [always available here](https://mat
 | Contact by:               | &nbsp;                                                            |
 |---------------------------|-------------------------------------------------------------------|
 | Contracting Company Site: | [Grey.ooo](https://grey.ooo)                                      |
-| Telephone & Whatsapp:     | +31 (0) 621 34 82 45                                              |
+| Telephone:                | +31 (0) 621 34 82 45                                              |
 | LinkedIn:                 | [LinkedIn](https://www.linkedin.com/in/matthewbaggett-was-taken)  |
 | Email:                    | [matthew@baggett.me](mailto:matthew@baggett.me)                   |
 | Github Accounts:          | [Personal Github](https://github.com/matthewbaggett)              |
@@ -25,34 +25,47 @@ There are also [some pictures of hardware projects I've worked on](#physical-thi
 
 * Build-out of highly available, automatically scaling containerized cluster infrastructure using Docker Swarm.
 * Conversion of existing infrastructure and legacy applications into scalable, fault-tolerant dockerized solutions.
-* IAC with Terraform.
+* Turn-arounds of failed microservice migrations, reconsolidation into manageable monoliths.
+* IAC with Terraform/Tofu.
+* Has lead projects as Architect and Team Lead.
+* Cares about Digital Sovereignty. 
 * Long experience with cloud & bare metal linux server management, experience with buildroot-based embedded linux systems.
-* Virtualization with VMware ESXi, Proxmox VE
+* Virtualization with VMware, Proxmox 
 * Build Automation and Deployment Management with [Github Actions](https://github.com/goneio/base-image/blob/master/.github/workflows/build.yml), Jenkins, Gitlab-CI & Travis.
 * Extensive experience with dockerization of scalable services and orchestration.
 * 17 years experience of PHP (been at it since 2008!).
 * Expert at reducing TCO of customer cloud systems.
 * Infrastructure-as-code Terraform evangelist. (I have a large repo of [Opinionated Terraform Modules](https://github.com/matthewbaggett/terraform_modules) that let me build out scalable infrastructure in minutes.)
-* Experienced with modern PHP. [Excited for PHP8.5 to go to production](https://php.watch/versions/8.5/pipe-operator).
-* Symfony Slim 4, Drupal 7, Laravel & Zend (Now Lamina) Framework 2
+* Experienced with modern PHP. 
+* Symfony, Slim, Laravel & Zend (Now Lamina), Drupal
 * Experienced with architecting and building out scalable Microservices with AWS Auto Scaling
-* Unit Testing with PHPUnit & Integration Testing with Selenium.
-* Code Quality improvement and maintenance through PHPStan, Code Style enforcement through PHP-CS-Fixer.
+* Unit Testing with PHPUnit & Integration Testing with Playwright/Selenium.
+* Committed to improving Code Quality through modern tooling, PHPStan, Code Style enforcement through PHP-CS-Fixer. 
 * Build massively parallelized ETL pipelines for large data ingress.
 * AWS RDS Serverless, AWS Aurora, MariaDB, MySQL and MS SQL database backends, design of database schemas upon them
+* Quite fond of Hetzner.
 * Experienced with Redis & MQTT as cache and message brokers
 * Amazon AWS cloud systems (EC2, Auto Scaling Groups, Elastic Search, Elastic Load Balancer, Route 53, RDS, Elasticache, SES)
 * Usage of CMS (Content Management Systems) such as Drupal, WordPress and other proprietary systems (Contented, custom builds)
 * Custom module creation for Drupal.
 * Use of 3rd party systems and APIs, REST, etc.
-* W3C standards compliance for the web
 * Knowledge of Traefik, Nginx & Apache
 * Working in a team on large projects with source control such as Git & Subversion
 
 <a name="things-ive-done"></a>
 # Employment History
+### PHP Engineer
+*Manuevo B.V trading as Shapeways: April 2026 until current*
+* Spearheaded project to dispose of prematurely optimized microservice architecture to monolithic architecture.
+* Brought codebase into the current year in terms of libraries and technologies, as well as disposing of the related risks of exploit.
+* Replaced docker container architecture with one that doesn't run as root, doesn't ship npm, yarn and gcc in production images.
+* Helped crush the complexity of the geometry ingestion pipeline's underlying infrastructure.
+* Architected the replacement platform to build new functionality on top of, while digesting away the existing legacy applications functionality for a in-situ replacement.
+* Railed for quality improvements, complexity cuts, application architecture rationalization.
+* (partially) integrated an imaging, robotized QC and inspection system into the existing application.
+
 ### Freelance Devops & Software Engineer
-*Grey.ooo: August 2024 - Current*
+*Grey.ooo: August 2024 - April 2026*
 * Varied infrastructure and development work for different clients, mostly revolving around ecommerce platforms.
 * Scalable, Containerized AWS infrastructure build-out - Terraform, Docker, Github Actions.
 * Containerized of legacy applications and gradual replacements.
@@ -61,13 +74,13 @@ There are also [some pictures of hardware projects I've worked on](#physical-thi
 
 ### Devops & Backend Engineer
 *One Up Sales/Stormburst Studios: March 2023 - August 2024*
-* build-out of a highly parallelized data ingest pipeline
+* Build-out of a highly parallelized data ingest pipeline
 * Partial build-out of multi-tiered, multi-tenant datastore
 * Implement GitHub Actions CI/CD pipeline and related self-host infrastructure
 * Implement Terraform infrastructure for Production & QA environments
 * Strive for improvements to development practices.
 * Deploy bare-metal infrastructure at a fraction of the cost of cloud providers with the same level of redundancy and availability.
-* Multi-provider cloud infrastructure built for availability and redundency within cost constraints.
+* Multi-provider cloud infrastructure built for availability and redundancy within cost constraints.
 
 ### Devops & Infrastructure Engineer
 *Superscript B.V: August 2021 - March 2023*
